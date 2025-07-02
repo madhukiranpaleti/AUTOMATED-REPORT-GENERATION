@@ -1,1 +1,20 @@
 # AUTOMATED-REPORT-GENERATION
+
+COMPANY:CODETECH IT SOLUTIONS
+
+NAME:Madhu kiran paleti
+
+INTERN ID:CT04DF2819
+
+DOMAIN:python programming
+
+DURATION: 4 WEEKS
+
+MENTOR:NEELA SANTOSH
+
+
+Desc:
+
+    Automated report generation transforms raw data into insightful, ready-to-use reports with minimal human intervention. It streamlines data analysis, enhances decision-making, and ensures consistent, timely dissemination of information. By leveraging software and predefined templates, businesses can eliminate manual errors and significantly boost operational efficiency.
+    output:
+         
